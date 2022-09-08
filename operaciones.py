@@ -1,0 +1,6 @@
+capital=float(input("ingrese valor a invertir"))
+ganancia=float(capital*0.02)
+saldo=float(capital+ganancia)
+print(f'valor invertido={capital}')
+print(f'valor de la rentabilidad ={ganancia}')
+print(f'saldo total seria={saldo}')

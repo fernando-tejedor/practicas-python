@@ -1,0 +1,4 @@
+creacion
+apertura
+manipulacion
+cierre

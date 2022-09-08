@@ -1,0 +1,81 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+9
+cParcial1
+1
+0
+9
+cParcial2
+1
+0
+9
+cParcial3
+1
+0
+6
+2
+12
+cExamenFinal
+1
+0
+13
+cTrabajoFinal
+1
+0
+4
+1
+23
+"dijite calificacion 1"
+5
+1
+9
+cparcial1
+4
+1
+23
+"dijite calificacion 2"
+5
+1
+9
+cParcial2
+4
+1
+23
+"dijite calificacion 3"
+5
+1
+9
+cParcial3
+4
+1
+34
+"dijite calificacion examen final"
+5
+1
+12
+cExamenFinal
+4
+1
+35
+"dijite calificacion trabajo final"
+5
+1
+13
+cTrabajoFinal
+6
+1
+6
+cFinal
+84
+((((cParcial1+cParcial2+cParcial3)/3)*0.55)+(cExamenFinal*0.3)+(cTrabajoFinal*0.15))
+4
+1
+36
+'su calificacion final es:' , cFinal
+1

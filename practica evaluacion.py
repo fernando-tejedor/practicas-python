@@ -1,0 +1,13 @@
+#entrada
+alto=float(input())
+ancho=float(input())
+profundo=float(input())
+cantidad=int(input())
+#proceso
+volumen=alto*ancho*profundo
+volumenTotal=(volumen*cantidad)
+costoEnvio=(volumenTotal*5)
+#salida
+print(volumen)
+print(volumenTotal)
+print(costoEnvio)
